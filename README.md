@@ -47,8 +47,12 @@ streamlit run housepriceprediction.py
 - **Mean Squared Error (MSE)**: *Displayed on the app*
 - **R-squared (R²)**: *Displayed on the app*
 
-## 📸 Screenshots
-![App Preview](https://via.placeholder.com/600x300)
+## 📽️ Demo Video
+
+<video width="600" controls>
+  <source src="https://drive.google.com/file/d/1ItCoElZRJo-wva8oe_ACv6WuI57xpHx6/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or pull request.
