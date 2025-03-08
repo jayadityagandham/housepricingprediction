@@ -49,10 +49,8 @@ streamlit run housepriceprediction.py
 
 ## 📽️ Demo Video
 
-<video width="600" controls>
-  <source src="https://drive.google.com/file/d/1ItCoElZRJo-wva8oe_ACv6WuI57xpHx6/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Demo](https://drive.google.com/file/d/1ItCoElZRJo-wva8oe_ACv6WuI57xpHx6/view?usp=sharing)
+
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or pull request.
